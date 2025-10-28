@@ -1,16 +1,40 @@
-## Hi there 👋
+## Freelance Software Consultant
 
-<!--
-**kelvinlawson/kelvinlawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Versatile software developer working on everything from embedded systems device drivers & bootloaders to mobile apps, cloud backends & desktop software.
 
-Here are some ideas to get you started:
+### Some of the technology areas I'm currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🪫 Embedded / IoT Firmware
+- 🐧 Operating Systems & Device Drivers
+- 📷 Camera Firmware
+- 🐬 Animal-Borne Cameras
+- 🌐 Networked Systems
+- 🤳 Mobile Apps
+- ☁️ Cloud Backends
+- 🖥️ Desktop Apps
+
+---
+
+### A few of the projects I'm working on at the moment:
+
+#### 📷 Novatek NT98530 Camera
+Building a complete IP camera solution based on the Novatek NT98530 SoC, developing a new RTSP and ONVIF server stack running on the Novatek SDK, integrated with the Novatek codec pipeline, and writing associated device drivers & bootloaders.
+
+#### 📟 Linux-based Touchscreen Device
+A Yocto Linux touchscreen device based on iMX6 using the LVGL graphics library, and associated kernel device drivers and other operating system elements.
+
+#### ⚡ Complete IoT Stack
+A complete IoT stack incorporating IoT device software, a distributed/replicated cloud backend, and React Native mobile apps.
+
+#### 🦈 Animal Biologging Tag Software
+Marine devices for animal tagging and desktop software for processing and viewing the data using OpenGL.
+
+---
+
+### 💬 Ask me about
+
+Short-term or long-term software consultancy; an additional expert resource on your existing software team, or I can take your product idea and bring it to fruition.
+
+### 📫 How to reach me
+
+🔗 https://lisden.com
