@@ -12,7 +12,7 @@ Versatile software developer working on everything from embedded systems device 
 - 🤳 Mobile Apps
 - ☁️ Cloud Backends
 - 🖥️ Desktop Apps
-- 🔗 https://lisden.com/our-services/more-about-embedded-expertise/
+- 🔗 [Read more](https://lisden.com/our-services/more-about-embedded-expertise/)
 
 ---
 
