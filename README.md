@@ -12,7 +12,7 @@ Versatile software developer working on everything from embedded systems device 
 - 🤳 Mobile Apps
 - ☁️ Cloud Backends
 - 🖥️ Desktop Apps
-- 🔗 [Read more](https://lisden.com/our-services/more-about-embedded-expertise/)
+- 🔗 [More about my Embedded Skills](https://lisden.com/our-services/more-about-embedded-expertise/)
 
 ---
 
@@ -32,6 +32,12 @@ Marine devices for animal tagging and desktop software for processing and viewin
 
 ---
 
+### Profiles Elsewhere
+
+🔗 [Cake.me](https://www.cake.me/me/kelvin-lawson)
+
+---
+
 ### 💬 Ask me about
 
 Short-term or long-term software consultancy; an additional expert resource on your existing software team, or I can take your product idea and bring it to fruition.
@@ -39,3 +45,4 @@ Short-term or long-term software consultancy; an additional expert resource on y
 ### 📫 How to reach me
 
 🔗 https://lisden.com
+
