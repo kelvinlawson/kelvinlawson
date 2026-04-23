@@ -19,7 +19,7 @@ Versatile software developer working on everything from embedded systems device 
 ### A few of the projects I'm working on at the moment:
 
 #### 📷 Novatek NT98530 Camera
-Building a complete IP camera solution based on the Novatek NT98530 SoC, developing a new RTSP and ONVIF server stack running on the Novatek SDK, integrated with the Novatek codec pipeline, and writing associated device drivers & bootloaders.
+Building a complete IP camera solution based on the Novatek NT98530 SoC, developing a new RTSP and ONVIF server stack running on the Novatek SDK, integrated with the Novatek codec pipeline, and writing associated device drivers & bootloaders. YOLOv8 object detection running on the SoC's built-in CNN accelerator.
 
 #### 📟 Linux-based Touchscreen Device
 A Yocto Linux touchscreen device based on iMX6 using the LVGL graphics library, and associated kernel device drivers and other operating system elements.
