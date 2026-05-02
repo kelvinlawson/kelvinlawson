@@ -25,10 +25,13 @@ Building a complete IP camera solution based on the Novatek NT98530 SoC, develop
 A Yocto Linux touchscreen device based on iMX6 using the LVGL graphics library, and associated kernel device drivers and other operating system elements.
 
 #### ⚡ Complete IoT Stack
-A complete IoT stack incorporating IoT device software, a distributed/replicated cloud backend, and React Native mobile apps.
+A complete IoT stack incorporating IoT device firmware, a distributed/replicated cloud backend, and React Native mobile apps. Custom IoT fleet management system and analytics/dashboards for business data and IoT fleet data.
 
 #### 🦈 Animal Biologging Tag Software
-Marine devices for animal tagging and desktop software for processing and viewing the data using OpenGL.
+Developed several camera products from scratch using various video SoCs (TI DM368, HiSilicon, iCatch). Complete software stack: bootloaders, Linux and RTOS, device drivers, sensor setup, and FFmpeg-based recording. Battery-powered solutions achieving one-second boot-to-recording times. Also developed desktop applications for analysing biologging sensor data, GPS post-processing software, and 3D OpenGL visualisation tools. Emmy Award recipient for developing the animal-borne cameras used on the BBC Blue Planet 2 series.
+
+#### 🎬 Video Streaming Pipelines
+Multiple projects using gstreamer, ffmpeg and custom stacks, including feeding local IP camera streams to Android & iOS Mobile apps, and cloud storage (including Kinesis Video Streams).
 
 ---
 
