@@ -35,7 +35,7 @@ Developed several camera products from scratch using various video SoCs (TI DM36
 Multiple projects using gstreamer, ffmpeg and custom stacks, including feeding local IP camera streams to Android & iOS Mobile apps, and cloud storage (including Kinesis Video Streams).
 
 #### 🎬 Edge AI Video Pipelines
-- GStreamer + Rockchip NPU inference on RK3588 (object detection, ONVIF metadata streaming).
+- GStreamer + Rockchip NPU inference on Rockchip RK3588 (object detection, ONVIF metadata streaming).
 - On-camera object detection on Novatek NT98530.
 
 ---
