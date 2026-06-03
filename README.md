@@ -8,6 +8,7 @@ Versatile software developer working on everything from embedded systems device 
 - 🐧 Operating Systems & Device Drivers
 - 📷 Camera Firmware
 - 🐬 Animal-Borne Cameras
+- 📷 Edge AI Video Pipelines
 - 🌐 Networked Systems
 - 🤳 Mobile Apps
 - ☁️ Cloud Backends
@@ -32,6 +33,10 @@ Developed several camera products from scratch using various video SoCs (TI DM36
 
 #### 🎬 Video Streaming Pipelines
 Multiple projects using gstreamer, ffmpeg and custom stacks, including feeding local IP camera streams to Android & iOS Mobile apps, and cloud storage (including Kinesis Video Streams).
+
+#### 🎬 Edge AI Video Pipelines
+- GStreamer + Rockchip NPU inference on RK3588 (object detection, ONVIF metadata streaming).
+- On-camera object detection on Novatek NT98530.
 
 ---
 
