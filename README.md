@@ -19,6 +19,9 @@ Versatile software developer working on everything from embedded systems device 
 
 ### A few of the projects I'm working on at the moment:
 
+#### 📹 [CameraStack](https://camerastack.io)
+A feature-rich, professional-grade ONVIF & RTSP server, easily ported to any platform. A highly portable shared Go core handling a wide range of ONVIF services and RTSP transports, coupled with focused platform-specific adapters for SoC-specific video pipeline SDKs or GStreamer.
+  
 #### 📷 Novatek NT98530 Camera
 Building a complete IP camera solution based on the Novatek NT98530 SoC, developing a new RTSP and ONVIF server stack running on the Novatek SDK, integrated with the Novatek codec pipeline, and writing associated device drivers & bootloaders. YOLOv8 object detection running on the SoC's built-in CNN accelerator.
 
